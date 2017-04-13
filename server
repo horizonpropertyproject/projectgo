@@ -1,0 +1,18 @@
+package main
+
+import (
+	"net/http"
+	"html/template"
+	"fmt"
+)
+
+var tpl *template.Template
+
+func init()
+{
+
+}
+func main()
+{
+
+}
